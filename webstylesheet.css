@@ -130,8 +130,8 @@ a:visited{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.bgimg1 {background-image: url("images/image1.png"); min-height: 600px;}
-.bgimg2 {background-image: url("images/image2.png"); min-height: 300px;}
+.bgimg1 {background-image: url("Images/image1.png"); min-height: 600px;}
+.bgimg2 {background-image: url("Images/image2.png"); min-height: 300px;}
 .bgimg3 {background-image: url("images/image3.png"); min-height: 300px;}
 .bgimg4 {background-image: url("images/image4.png"); min-height: 300px;}
 .bgimg5 {background-image: url("images/image5.png"); min-height: 300px;}
