@@ -1,0 +1,156 @@
+#para1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 90px;
+	color: black;
+	background-color: #455cad;
+	font-family: Arial;
+	font-size: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#para2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 90px;
+	color: white;
+	background-color: #12088E;
+	font-family: Calibri;
+	font-size: 17px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+#para3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 90px;
+	color: black;
+	background-color: #455cad;
+	font-family: Arial;
+	text-align: center;
+	font-size: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#nextlink {
+	margin-top: 10px;
+	margin-left: 0 auto;
+	font-family: Arial;
+	font-size: 25px;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+}
+#pagebottom {
+	margin: 0;
+	background-color: #004d99;
+	color: black;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-family: Arial;
+	border-top: 3px solid #414c7d;
+}
+
+#Cit1, #Cit2, #Cit3, #Cit4, #Cit5{
+	margin: 0;
+	background-color: #004d99;
+	color: black;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+.navbar {
+	background-color: #4d4d4d;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	margin-left: 0 auto;
+}
+.navbar a {
+	float: left;
+	color: white;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: Arial;
+}
+.navbar a:hover {
+	background-color: #a6a6a6;
+	color: black;
+}
+
+body { margin: 0; }
+
+br { display: block; margin: 10px 0;}
+
+a:link {
+	color: #ff6600;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #ff9933;
+	text-decoration: none;
+}
+
+.img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.img2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 800px;
+}
+
+.bgimg1, .bgimg2, .bgimg3, .bgimg4, .bgimg5, .bgimg6, .bgimg7, .bgimg8, .bgimg9, .bgimg10, .bgimg11, .bgimg12, .bgimg13, .bgimg14, .bgimg15, .bgimg16, .bgimg18, .bgimg23, .bgimg25, .bgimg26, .bgimg27, .bgimg28, .bgimg29, .bgimg31 {
+	background-attachment: fixed;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bgimg1 {background-image: url("images/image1.png"); min-height: 600px;}
+.bgimg2 {background-image: url("images/image2.png"); min-height: 300px;}
+.bgimg3 {background-image: url("images/image3.png"); min-height: 300px;}
+.bgimg4 {background-image: url("images/image4.png"); min-height: 300px;}
+.bgimg5 {background-image: url("images/image5.png"); min-height: 300px;}
+.bgimg6 {background-image: url("images/image6.png"); min-height: 300px;}
+.bgimg7 {background-image: url("images/image7.png"); min-height: 300px;}
+.bgimg8 {background-image: url("images/image8.png"); min-height: 300px;}
+.bgimg9 {background-image: url("images/image9.png"); min-height: 300px;}
+.bgimg10 {background-image: url("images/image10.png"); min-height: 450px;}
+.bgimg11 {background-image: url("images/image11.png"); min-height: 450px;}
+.bgimg12 {background-image: url("images/image12.png"); min-height: 450px;}
+.bgimg13 {background-image: url("images/image13.png"); min-height: 450px;}
+.bgimg14 {background-image: url("images/image14.png"); min-height: 450px;}
+.bgimg15 {background-image: url("images/image15.png"); min-height: 450px;}
+.bgimg16 {background-image: url("images/image16.png"); min-height: 450px;}
+.bgimg18 {background-image: url("images/image18.png"); min-height: 450px;}
+.bgimg23 {background-image: url("images/image23.png"); min-height: 450px;}
+.bgimg25 {background-image: url("images/image25.png"); min-height: 450px;}
+.bgimg26 {background-image: url("images/image26.png"); min-height: 450px;}
+.bgimg27 {background-image: url("images/image27.png"); min-height: 450px;}
+.bgimg28 {background-image: url("images/image28.png"); min-height: 450px;}
+.bgimg29 {background-image: url("images/image29.png"); min-height: 450px;}
+.bgimg31 {background-image: url("images/image31.png"); min-height: 450px;}
